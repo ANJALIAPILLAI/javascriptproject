@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/3c9d15f2-33df-42c8-b53f-d025721a538b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/MovieClub",
+    "appService.deploySubpath": ""
+}
